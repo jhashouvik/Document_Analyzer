@@ -29,6 +29,7 @@ You are a helpful assistant. Extract the following key-value pairs from the prov
 Return the data as a valid JSON object. Ensure the values are exactly as they appear in the text. For example:
 - If the text says "Not more than 100 from hydrant: Loyalty Customer", return "Loyalty Customer".
 - If the text says "Not more than 5 miles from Fire Dept.: Bundle Package", return "Bundle Package".
+- If the text says "Pro Rata Additional Surcharges = 0", return "Sprinkler System".
 - Do not return boolean values (True/False) for any field.
 """
 
