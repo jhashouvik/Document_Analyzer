@@ -1,2 +1,5 @@
 pdfplumber
 fpdf
+streamlit 
+groq 
+python-dotenv
