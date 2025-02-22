@@ -23,8 +23,8 @@ You are a helpful assistant. Extract the following key-value pairs from the prov
 - Not more than 5 miles from Fire Dept.
 - Pro Rata Additional Surcharges
 - Forms and Endorsements
-- Section 1 - Coverages, Please return the values which belong to Section 1 table only.
-- Section 2 - Coverages, Please return as it is
+- Section 1 - Coverages, Please return the values which belong to this table only.
+- Section 2 - Coverages, Please return as it is and Please return the values which belong to this table only.
 
 Return the data as a valid JSON object. Ensure the values are exactly as they appear in the text. For example:
 - If the text says "Not more than 100 from hydrant: Loyalty Customer", return "Loyalty Customer".
